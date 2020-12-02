@@ -1,7 +1,7 @@
 # BipedalWalker-V3 with TD3 actor critic (MLP nets)
 
 # Motivation
-* The main goal of this project is that to solve the problem characterized by the environment BipedalWalker-v3. ( https://gym.openai.com/envs/BipedalWalker-v2/ ).The problem arises as concluded when the robot chooses correct actions for don't fall and walk to the end of the path.
+* The main goal of this project is that to solve the problem characterized by the environment BipedalWalker-v3. ( https://gym.openai.com/envs/BipedalWalker-v2/ ).
 
 # Algorithms used to train the Agent 
 * TD3
