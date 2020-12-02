@@ -14,3 +14,8 @@
 * numpy 1.18.4 
 * Matplotlib 3.2.1 
 * Pillow 7.1.2
+ 
+# Refernces
+“ Addressing Function Approximation Error in Actor-Critic Methods ” https://arxiv.org/pdf/1802.09477.pdf
+https://towardsdatascience.com/td3-learning-to-run-with-ai-40dfc512f93
+https://gym.openai.com/envs/BipedalWalker-v2/
