@@ -19,3 +19,7 @@
 * “ Addressing Function Approximation Error in Actor-Critic Methods ”  https://arxiv.org/pdf/1802.09477.pdf
 * https://towardsdatascience.com/td3-learning-to-run-with-ai-40dfc512f93
 * https://gym.openai.com/envs/BipedalWalker-v2/
+
+# Model Training
+100 itr : https://drive.google.com/file/d/1FmlKrmKwmio7BcBCvZfEW8P6IN09jkEN/view?usp=sharing
+500+ itr : https://drive.google.com/file/d/17FVSPo-tvA1g9XPOdRxU_b8jjomagbk2/view?usp=sharing
